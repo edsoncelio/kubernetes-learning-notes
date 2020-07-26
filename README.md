@@ -4,4 +4,4 @@ Notas de estudos do Kubernetes, organizadas por algumas categorias que facilitam
 
 
 - [Comandos de debug/troubleshooting com o kubectl](troubleshooting.md)
-- [Salvando e gerenciando secredos com secrets](secrets/secrets.md)
+- [Salvando e gerenciando segredos com secrets](secrets/secrets.md)
