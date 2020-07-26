@@ -13,9 +13,14 @@ Abrir uma sessão do bash dentro do pod, observações:
 ---
 
 ### `kubectl attach -it <pod-name>`
+
 TODO
 ---
 
 ### `kubectl cp <pod-name>:</path/to/remote/file> </path/to/local/file>`
 Copiar arquivos de um pod para um diretório local, observações:
+* se o pod que quiser ver não estiver no namespace default, usar o parâmetro -n <namespace-name>
+  
+### `kubectl port-forward <pod-name> 8080:80`
+Encaminhar o tráfego da máquina local para o pod, observações:
 * se o pod que quiser ver não estiver no namespace default, usar o parâmetro -n <namespace-name>
