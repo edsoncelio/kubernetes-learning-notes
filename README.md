@@ -3,5 +3,5 @@ Notas de estudos do Kubernetes, organizadas por algumas categorias que facilitam
 **Obs:** serão adicionadas a medida que eu for conseguindo tempo para anotar tudo.
 
 
-#### - [Comandos de debug/troubleshooting com o kubectl](troubleshooting.md)
-#### - [Salvando e gerenciando secredos com secrets](secrets.md)
+- [Comandos de debug/troubleshooting com o kubectl](troubleshooting.md)
+- [Salvando e gerenciando secredos com secrets](secrets.md)
