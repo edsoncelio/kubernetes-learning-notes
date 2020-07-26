@@ -3,4 +3,4 @@ Notas de estudos do Kubernetes, organizadas por algumas categorias que facilitam
 **Obs:** serão adicionadas a medida que eu for conseguindo tempo para anotar tudo.
 
 
-### - [Comandos de debugging](https://github.com/edsoncelio/kubernetes-learning-path/blob/master/troubleshooting.md)
+### - [Comandos de debugging](../troubleshooting.md)
