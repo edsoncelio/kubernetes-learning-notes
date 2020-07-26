@@ -3,4 +3,4 @@ Notas de estudos do Kubernetes, organizadas por algumas categorias que facilitam
 **Obs:** serão adicionadas a medida que eu for conseguindo tempo para anotar tudo.
 
 
-#### - [Comandos de debugging](troubleshooting.md)
+#### - [Comandos de debug/troubleshooting](troubleshooting.md)
